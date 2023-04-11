@@ -1,0 +1,23 @@
+CLOUD & SERVERLESS COMPUTING Project Documentation
+Amazon Elastic Transcoder using S3
+
+Amazon Elastic Transcoder:
+
+         Amazon Elastic Transcoder lets you convert media files that you have stored in Amazon S3 into media files in the formats required by consumer playback devices. For example, you can convert large, high-quality digital media files into formats that users can play back on mobile devices, tablets, web browsers, and connected televisions.
+Amazon S3:
+
+         Amazon S3, also known as Amazon Simple Storage Service, is a web service interface-based object storage service provided by Amazon Web Services. The scalable storage infrastructure used by Amazon.com to power its e-commerce network is also used by Amazon S3.
+        By the following steps we can convert large, high-quality digital media files into formats that users can play back on mobile device
+
+Step1:Login to AWS Management console
+Step 2:Create Amazon S3 Bucket for video Uploading
+Step 3:Create another S3 bucket for Output 
+Step 4:Upload the file to be transcoded to the input bucket
+Step 5:Create New Pipeline named as videotranscoder
+Step 6:Create New Job and open jobs select the pipeline and search
+Step 7:Open jobs select the pipeline and search
+Conclusion:
+        Amazon Web Services (AWS) can optimise your transcoding using the cloud. Imagine that you manage a website that offers a large number of videos that are viewed globally on desktop computers, mobile devices, and tablets. In an ideal world, you would want to convert them into numerous formats so that various platforms can render them quickly and with the highest quality possible. Transcoding basically entails converting your video files into different formats so they may be viewed on various platforms and devices.
+
+
+             
